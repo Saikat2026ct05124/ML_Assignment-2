@@ -1,0 +1,6 @@
+Model,Accuracy,AUC,Precision,Recall,F1,MCC,Train time (s)
+Logistic Regression,0.8045,0.8661,0.6872,0.5321,0.5998,0.48,4.1
+Decision Tree,0.8311,0.8884,0.7119,0.6489,0.6789,0.5658,1.7
+K-Nearest Neighbors,0.8057,0.8448,0.66,0.6064,0.6321,0.5012,0.0
+Naive Bayes (Gaussian),0.5484,0.7553,0.3672,0.8857,0.5191,0.2893,0.1
+Random Forest,0.8564,0.9165,0.7757,0.6726,0.7205,0.6274,26.4
